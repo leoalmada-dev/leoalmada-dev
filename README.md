@@ -1,16 +1,23 @@
-## Hi there 👋
+# Leonardo Almada
 
-<!--
-**leoalmada-dev/leoalmada-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer — Full Stack**
+React · Laravel
 
-Here are some ideas to get you started:
+Software developer con experiencia profesional en construcción, mantenimiento y evolución de aplicaciones en producción, tanto en proyectos nuevos como en sistemas brownfield.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo principalmente con **React, JavaScript/TypeScript, PHP, Laravel, APIs REST y bases de datos relacionales**, incorporando testing, Git, CI/CD, deployment y documentación según el contexto.
+
+También desarrollo tooling y workflows de **ingeniería de software asistida por IA**, con foco en automatización, validación, evidencia reproducible y control humano.
+
+## Public work
+
+Mis repositorios públicos representan sólo una parte de mi experiencia técnica. Una parte importante de mi trabajo profesional corresponde a sistemas privados e institucionales que no pueden publicarse.
+
+Actualmente destaco:
+
+* **laravel-api-starter** — starter técnico mínimo para Laravel, testing, migraciones y CI reproducible.
+* **catalogo-simple** — proyecto personal full stack con Next.js, TypeScript, PostgreSQL/Supabase, Drizzle, testing y CI.
+
+## Links
+
+* LinkedIn: https://www.linkedin.com/in/leoalmada-dev
